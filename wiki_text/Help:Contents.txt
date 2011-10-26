@@ -1,0 +1,18 @@
+Help&#160;index: Ask&#160;questions&#160;· Learn wikicode&#160;· View FAQ&#160;· Read Glossary&#160;·
+Live Wikipedia editing-related help via web chat&#160;· Help&#160;desk&#160;· Reference&#160;desk&#160;· Tutorial  Getting started
+An introduction Policies and guidelines
+Community standards Browsing Wikipedia
+Help for reading the encyclopedia and navigating the site Asking questions
+Contact another user or keep yourself informed Editing Wikipedia
+General help for editors The Wikipedia community
+Submit or debate a proposal Links and references
+Help for creating links or dealing with references Resources and lists
+Resources for editors Files
+Using images, videos and sound files Account settings
+Tips and tools for registered users Keeping track of changes
+Track the evolution of a page or follow a user Technical information
+Tools for advanced users and troubleshooting information View all of these on a single page See also: Department directory · Editor's index · Quick directory · The Missing Manual · About the help pages Ask a question
+Find out where to ask a question Frequently asked questions
+Common questions, answered Report a problem
+Issues with a specific page Contact Wikipedia
+Press, licensing and other queries Did you ever think the edit summary input field is too small? Add this to your monobook.css (or whatever skin you are using): input#wpSummary { width: 80%; }
